@@ -1,0 +1,29 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+    background-image: url('https://www.agdelta.com/wp-content/uploads/2018/06/website-parallax-background-C.jpg');
+      position: relative;
+      width: 100%;
+      height: 100%;
+}
+.navbar-brand
+{
+    letter-spacing: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.card-body
+{
+    background-image: url('https://cutewallpaper.org/21/black-background-large/DESEMBARALHE-Black-Background-Large-Size.jpg');
+    opacity:0.9;
+    border-radius: 7px;
+   
+}
+.card
+{
+    width: 430px;
+    height: 310px;
+    margin-left: 7px;
+    border-radius: 9px;
+}
